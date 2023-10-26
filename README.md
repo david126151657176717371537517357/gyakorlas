@@ -1,2 +1,3 @@
 # gyakorlas
 # bongeszo 
+# bongeszo pull
